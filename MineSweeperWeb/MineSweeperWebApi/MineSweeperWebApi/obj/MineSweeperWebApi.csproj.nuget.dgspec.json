@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\MineSweeperWebApi\\MineSweeperWebApi\\MineSweeperWebApi.csproj": {}
+    "D:\\GitHub\\MineSweeperApp\\MineSweeper\\MineSweeperWeb\\MineSweeperWebApi\\MineSweeperWebApi\\MineSweeperWebApi.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\MineSweeperWebApi\\MineSweeperWebApi\\MineSweeperWebApi.csproj": {
+    "D:\\GitHub\\MineSweeperApp\\MineSweeper\\MineSweeperWeb\\MineSweeperWebApi\\MineSweeperWebApi\\MineSweeperWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\MineSweeperWebApi\\MineSweeperWebApi\\MineSweeperWebApi.csproj",
+        "projectUniqueName": "D:\\GitHub\\MineSweeperApp\\MineSweeper\\MineSweeperWeb\\MineSweeperWebApi\\MineSweeperWebApi\\MineSweeperWebApi.csproj",
         "projectName": "MineSweeperWebApi",
-        "projectPath": "D:\\GitHub\\MineSweeperWebApi\\MineSweeperWebApi\\MineSweeperWebApi.csproj",
+        "projectPath": "D:\\GitHub\\MineSweeperApp\\MineSweeper\\MineSweeperWeb\\MineSweeperWebApi\\MineSweeperWebApi\\MineSweeperWebApi.csproj",
         "packagesPath": "C:\\Users\\BozdemirHome\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\MineSweeperWebApi\\MineSweeperWebApi\\obj\\",
+        "outputPath": "D:\\GitHub\\MineSweeperApp\\MineSweeper\\MineSweeperWeb\\MineSweeperWebApi\\MineSweeperWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -46,6 +46,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.15.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

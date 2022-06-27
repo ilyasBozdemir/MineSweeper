@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HBPtu+Pc4lLJ7wHqWQG1JxhDaBGvDm2UR0QkEN89Z6ba8iQinCeW93mZKhVA+vyseUEcHywumIo7TnszNepP7g==",
+  "dgSpecHash": "8DvfTs3fklUCP9dZ4HZCD8WJ1HSzNBa8gPfWcMud6h5on1TACMzMrUwq/IuiXQ0YpbBt/vPaerjeL7++xNdM9Q==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\MineSweeperWebApi\\MineSweeperWebApi\\MineSweeperWebApi.csproj",
+  "projectFilePath": "D:\\GitHub\\MineSweeperApp\\MineSweeper\\MineSweeperWeb\\MineSweeperWebApi\\MineSweeperWebApi\\MineSweeperWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BozdemirHome\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\BozdemirHome\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\BozdemirHome\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\BozdemirHome\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\BozdemirHome\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\BozdemirHome\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
