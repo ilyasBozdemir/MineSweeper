@@ -1,0 +1,1 @@
+﻿new MineSweeperApp.MineSweeper(new MineSweeperApp.Matrix(_row: 4, _col: 4)).RunConsoleApp();
