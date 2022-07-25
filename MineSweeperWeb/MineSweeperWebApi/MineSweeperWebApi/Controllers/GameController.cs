@@ -10,9 +10,6 @@ namespace MineSweeperWebApi.Controllers
 
         //[HttpGet]
         MineSweeper mineSweeper = new(new Matrix(5,5));
-        public IActionResult Index()
-        {
-            return View();
-        }
+       
     }
 }

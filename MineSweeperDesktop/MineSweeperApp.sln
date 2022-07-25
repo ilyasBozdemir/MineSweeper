@@ -9,13 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MineSweeperConsoleApp", "Mi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MineSweeperFormApp", "MineSweeperFormApp\MineSweeperFormApp.csproj", "{E4DD8894-D7BE-4319-A4A5-EE5D0C38DEB2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEB", "WEB", "{CDE6C027-7A7D-4684-9832-7E370EDB35F2}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{865B0356-7458-4957-BBFE-DC98F8A578F4}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web API", "Web API", "{61F0DF27-2FF8-41CA-8F67-617C5407023D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineSweeperWebApi", "MineSweeperWebApi\MineSweeperWebApi.csproj", "{71CC9E31-F6D3-4BE6-9DA9-9D26C6B7F606}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineSweeperWebApi", "MineSweeperWebApi\MineSweeperWebApi.csproj", "{2848180F-AFD0-4D85-BDAA-620A39305DE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,18 +29,13 @@ Global
 		{E4DD8894-D7BE-4319-A4A5-EE5D0C38DEB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4DD8894-D7BE-4319-A4A5-EE5D0C38DEB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4DD8894-D7BE-4319-A4A5-EE5D0C38DEB2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{71CC9E31-F6D3-4BE6-9DA9-9D26C6B7F606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{71CC9E31-F6D3-4BE6-9DA9-9D26C6B7F606}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{71CC9E31-F6D3-4BE6-9DA9-9D26C6B7F606}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{71CC9E31-F6D3-4BE6-9DA9-9D26C6B7F606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2848180F-AFD0-4D85-BDAA-620A39305DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2848180F-AFD0-4D85-BDAA-620A39305DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2848180F-AFD0-4D85-BDAA-620A39305DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2848180F-AFD0-4D85-BDAA-620A39305DE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{865B0356-7458-4957-BBFE-DC98F8A578F4} = {CDE6C027-7A7D-4684-9832-7E370EDB35F2}
-		{61F0DF27-2FF8-41CA-8F67-617C5407023D} = {CDE6C027-7A7D-4684-9832-7E370EDB35F2}
-		{71CC9E31-F6D3-4BE6-9DA9-9D26C6B7F606} = {61F0DF27-2FF8-41CA-8F67-617C5407023D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {712578FE-565E-4B9A-9ACB-80820E07B80C}

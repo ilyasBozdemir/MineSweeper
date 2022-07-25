@@ -13,4 +13,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="MineSweeperApp">
+      <HintPath>..\..\..\MineSweeperDesktop\MineSweeperApp\bin\Debug\net6.0\MineSweeperApp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

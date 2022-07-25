@@ -1,6 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MineSweeperApp;
-
 namespace MineSweeperWebApi.Controllers
 {
     [Route("api/[controller]s")]
@@ -9,8 +7,6 @@ namespace MineSweeperWebApi.Controllers
     {
 
         //[HttpGet]
-
-        MineSweeper mineSweeper = new(new Matrix(5,5));
         public IActionResult Index()
         {
             return View();
